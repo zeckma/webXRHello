@@ -1,4 +1,4 @@
-import * as THREE from "../node_modules/three/build/three.module";
+import * as THREE from "../webXRHello/node_modules/three/build/three.module";
 // global scene values
 var btn, gl, glCanvas, camera, scene, renderer, cube;
 
